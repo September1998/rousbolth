@@ -1,16 +1,25 @@
 {
+
   "name": "Rousbolth",
-  "version": "1.0.0",
-  "description": "",
+
+  "description": "Rousbolth",
+
+  "version": "0.0.0",
+
   "main": "rousbolth.js",
+
   "scripts": {
+
     "start": "node rousbolth.js"
+
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+
   "dependencies": {
-    "discord.js": "^11.5.0",
-    "ffmpeg-binaries": "^4.0.0"
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
   }
+
 }
