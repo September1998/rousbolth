@@ -1,1 +1,1 @@
-worker: node rousbolth.js
+worker: node .
