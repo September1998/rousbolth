@@ -258,7 +258,7 @@ if(command === 'chocolate?'){
 
 // TOKEN SECRETO - LOGIN DEL BOT.
 });
-client.login(config.token); 
+client.login(process.env.BOT_TOKEN); 
 
 ////////////////////////////////////
 
